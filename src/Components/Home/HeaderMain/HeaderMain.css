@@ -10,5 +10,6 @@
   transform: scale(1);
 }
 .type-text{
-    font-size:20px;
+    font-size:22px;
+    margin-left: 10px;
 }

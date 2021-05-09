@@ -1,11 +1,6 @@
 .mobile-container{
     background-color: #C6E2E9;
-    margin-right: 70px;
     overflow: hidden;
-    height: 60vh;
-}
-.image-sizing{
-    margin-left: 70px;
 }
 .img1-animation{
     -webkit-animation: action 1s infinite  alternate;

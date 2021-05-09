@@ -5,7 +5,7 @@ const HeaderMain = () => {
     return (
         <main style={{height:'600px',width:'99%'}} className='row d-flex align-items-center'>
         <div className="col-md-4 offset-md-1">
-            <h1 style={{color:'#3A4256'}}>Your New Smile <br/> Starts Here</h1>
+            <h1 style={{color:'#3A4256',marginLeft:'10px'}}>Your New Smile <br/> Starts Here</h1>
             <p className='text-secondary type-text'>
             <TypewriterComponent
                                 options={{

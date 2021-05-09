@@ -38,13 +38,12 @@ const Services = () => {
                     {
                         serviceData.map(service => <ServiceCard service={service}></ServiceCard>)
                     }
-                    <div className='col-md-6 service-card mt-5'>
+                    <div className='col-md-5 service-card mt-5'>
                         <Mobile></Mobile>
                         <div className='mt-4'>
                             <h5>Tech</h5>
                             <p>Branding,Product</p>
                         </div>
-
                     </div>
                 </div>
             </div>
