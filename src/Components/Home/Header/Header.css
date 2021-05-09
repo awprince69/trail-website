@@ -1,0 +1,7 @@
+.header-container{
+    height:760px;
+    position:relative;
+    background-image: url('../../../images/resume.png');
+    background-size: cover;
+    width:100%;
+}

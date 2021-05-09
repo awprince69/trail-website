@@ -1,0 +1,21 @@
+.mobile-container{
+    background-color: #C6E2E9;
+    margin-right: 70px;
+    overflow: hidden;
+    height: 60vh;
+}
+.image-sizing{
+    margin-left: 70px;
+}
+.img1-animation{
+    -webkit-animation: action 1s infinite  alternate;
+    animation: action 2s infinite  alternate;
+}
+@-webkit-keyframes action {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+}
+@keyframes action {
+    0% { transform: translateY(4px); }
+    100% { transform: translateY(-10px); }
+}

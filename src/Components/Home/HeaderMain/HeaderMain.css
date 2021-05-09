@@ -1,0 +1,14 @@
+.headerMain-media{
+    height: 100%;
+    width: 100%;
+    left: 665px;
+    top: 106px;
+    transition: transform 1s, filter 2s ease-in-out;
+    transform: scale(1.1);
+}
+.headerMain-media:hover{
+  transform: scale(1);
+}
+.type-text{
+    font-size:20px;
+}

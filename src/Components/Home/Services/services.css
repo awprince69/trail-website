@@ -1,0 +1,15 @@
+.service-card img{
+    transition: transform 1s, filter 3s ease-in-out;
+    transform: scale(1.1);
+    border-radius: 5px;
+    
+}
+.service-card:hover img {
+    transform: scale(1);
+    border-radius: 10px;
+  }
+.service-img img{
+    width: 85%;
+    height:60vh;
+}
+  
