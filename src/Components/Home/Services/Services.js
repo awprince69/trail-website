@@ -21,12 +21,12 @@ const Services = () => {
         },
         {
             img: img3,
-            title: 'Dorsia',
+            title: 'Hunter Tv',
             description: 'Development,Product,Marketing'
         },
         {
             img: img4,
-            title: 'Dorsia',
+            title: 'Computer Mania',
             description: 'Design,Branding,Product'
         },
     ]
@@ -41,8 +41,8 @@ const Services = () => {
                     <div className='col-md-6 service-card mt-5'>
                         <Mobile></Mobile>
                         <div className='mt-4'>
-                            <h5>osdhifujsdlf</h5>
-                            <p>jsdhbfkslkl</p>
+                            <h5>Tech</h5>
+                            <p>Branding,Product</p>
                         </div>
 
                     </div>
