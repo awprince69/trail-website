@@ -2,5 +2,5 @@
 
 [Live Site](https://web-event-4a994.web.app/)
 
-* reponsive website 
+* responsive website 
 
